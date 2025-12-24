@@ -1,0 +1,31 @@
+Main Functions
+Creating an Event
+
+1.Click on any day in the calendar
+2.Fill out the form:
+  Event Title (required)
+  Description (optional)
+  Time (optional)
+  Category (work/personal/important)
+3.Click "Save"
+
+Editing an Event
+
+1.Click on an existing event in the calendar
+2.Modify the necessary data in the form
+3.Click "Save Changes"
+
+Deleting an Event
+
+1.Click on an event in the calendar
+2.Click the "Delete" button
+3.Confirm deletion
+
+Navigation
+
+← → Buttons - switch between months
+Current Date - highlighted in blue
+Event Categories
+🔵 Work - blue color
+🟢 Personal - green color
+🔴 Important - red color
